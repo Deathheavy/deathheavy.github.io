@@ -1,3 +1,5 @@
+Updated: 02/10/2024
+
 # EN
 # Most popular World of Warcraft private server list
 https://deathheavy.github.io/
