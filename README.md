@@ -1,4 +1,4 @@
-Updated: 13/05/2024
+Updated: 13/05/2025
 
 # EN
 # Most popular World of Warcraft private server list
