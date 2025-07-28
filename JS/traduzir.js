@@ -2,7 +2,7 @@
     const translations = {
         en: {
             title: "WoW Private Server List",
-            headerTitle: "World of Warcraft private server list",
+            headerTitle: "Most popular World of Warcraft private server list",
             headerSubtitle: "Click on the server name to go to the server website",
             classicHeader: "CLASSIC",
             footerText: "Updated on 07/28/2025<br>by Deathheavy",
@@ -13,7 +13,7 @@
         },
         es: {
             title: "Lista de Servidores Privados de WoW",
-            headerTitle: "Lista de servidores privados de World of Warcraft",
+            headerTitle: "Lista de los servidores privados de World of Warcraft más populares",
             headerSubtitle: "Haz clic en el nombre del servidor para acceder a su sitio web",
             classicHeader: "CLÁSICO",
             footerText: "Actualizado el 28/07/2025<br>por Deathheavy",
@@ -24,7 +24,7 @@
         },
         pt: {
             title: "Lista de Servidores Privados de WoW",
-            headerTitle: "Lista de servidores privados de World of Warcraft",
+            headerTitle: "Lista dos servidores privados de World of Warcraft mais populares",
             headerSubtitle: "Clique no nome do servidor para ir ao site do servidor",
             classicHeader: "CLÁSSICO",
             footerText: "Atualizado em 28/07/2025<br>por Deathheavy",
