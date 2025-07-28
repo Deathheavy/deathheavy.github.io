@@ -11,6 +11,6 @@ https://deathheavy.github.io/
 Clique no nome do servidor para ir ao site do servidor
 
 # ES
-# Lista de servidores privados populares de World of Warcraft
+# Lista de los servidores privados de World of Warcraft más populares
 https://deathheavy.github.io/
 Haz clic en el nombre del servidor para acceder a su sitio web
