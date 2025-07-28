@@ -6,7 +6,7 @@ https://deathheavy.github.io/
 Click on the server name to go to the server website
 
 # PT-BR
-# Lista de servidores privados populares de World of Warcraft
+# Lista dos servidores privados de World of Warcraft mais populares
 https://deathheavy.github.io/
 Clique no nome do servidor para ir ao site do servidor
 
